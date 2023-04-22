@@ -1,4 +1,11 @@
-# Hi there, I'm Andrew! 👋
+<h1 align="center">Hi there, I'm Andrew!!👋</h1>
+
+- 🌱 I’m currently learning VueJs
+
+- 🤝 I’m available for freelancing.
+
+- 📫 How to reach me **kariukia225@gmail.com**
+
 
 # 💻 Tech Stack:
 
