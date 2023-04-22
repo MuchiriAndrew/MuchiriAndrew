@@ -25,7 +25,7 @@
 
 
 # ✍️ Random Developer Quote
-![quote](https://user-images.githubusercontent.com/121347385/233799441-0b78b734-5dba-48e8-9410-6dced1bea02c.png)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 # 😂 Here is a random joke that'll make you laugh!
