@@ -34,5 +34,5 @@
 # ✍️ Random Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 😂 Here is a random joke that'll make you laugh!
+# 😂 Here is a random joke!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
