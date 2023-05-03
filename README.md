@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working with ReactJs
 
-- 🌱 I’m currently experimenting with Framer Motion and BootStrap.
+- 🌱 I’m currently experimenting with Framer Motion and Bootstrap.
 
 - 📫 How to reach me **kariukia225@gmail.com**
 
