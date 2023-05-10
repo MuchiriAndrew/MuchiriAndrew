@@ -6,7 +6,6 @@
 </a>
 
 - 🌱 Curently learning Nodejs
-
 - 🌱 I’m currently working with ReactJs
 
 - 🌱 I’m currently experimenting with Framer Motion and Bootstrap.
