@@ -5,7 +5,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🌱 Curently learning Nodejs
+
 - 🌱 I’m currently working with ReactJs
 
 - 📫 How to reach me **kariukia225@gmail.com**
