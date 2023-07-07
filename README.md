@@ -6,7 +6,7 @@
 </a>
 
 
-- 🌱 I’m currently working with ReactJs
+- 🌱 I’m currently working with Vuejs
 
 - 📫 How to reach me **kariukia225@gmail.com**
 
