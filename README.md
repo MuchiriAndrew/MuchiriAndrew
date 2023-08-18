@@ -6,7 +6,7 @@
 </a>
 
 
-- 🌱 I’m currently working with Vuejs
+- 🌱 I’m currently working with Ruby on Rails
 
 - 📫 How to reach me **kariukia225@gmail.com**
 
