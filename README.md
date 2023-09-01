@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Andrew!!👋</h1>
 <h3 align="center">I build stuff for the Web! </h3>
-
-- 🌱 I’m currently working with Ruby on Rails
   
-- 🌱 Currently learning React Native & Flutter.
+- 🌱 Currently experimenting with both React Native & Flutter.
 
 - 📫 How to reach me **kariukia225@gmail.com**
 
