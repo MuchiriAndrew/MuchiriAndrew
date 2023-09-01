@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with Ruby on Rails
   
-- 🌱 Currently learning React Native.
+- 🌱 Currently learning React Native & Flutter.
 
 - 📫 How to reach me **kariukia225@gmail.com**
 
