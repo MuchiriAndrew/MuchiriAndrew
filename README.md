@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Andrew!!👋</h1>
 <h3 align="center">I build stuff for the Web! </h3>
   
-- 🌱 Currently experimenting with both React Native & Flutter.
+- 🌱 Currently learning Kotlin for mobile app development.
 
 - 📫 How to reach me **kariukia225@gmail.com**
 
