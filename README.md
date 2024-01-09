@@ -43,8 +43,9 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MuchiriAndrew&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuchiriAndrew&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<a href="https://github.com/MuchiriAndrew">
+    <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuchiriAndrew&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=html,css"/>
+  </a>
 # ✍️ Random Developer Quote
 <!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 ![large-22](https://user-images.githubusercontent.com/121347385/236785944-297c6bad-755b-4849-a366-3710e91f14b7.png)
