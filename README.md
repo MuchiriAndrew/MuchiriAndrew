@@ -27,8 +27,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -46,10 +44,3 @@
 <a href="https://github.com/MuchiriAndrew">
     <img height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuchiriAndrew&hide_progress=true&layout=compact&hide_border=true&theme=dark&langs_count=6&hide=java,html"/>
   </a>
-# ✍️ Random Developer Quote
-<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-![large-22](https://user-images.githubusercontent.com/121347385/236785944-297c6bad-755b-4849-a366-3710e91f14b7.png)
-
-
-# 😂 Here is a random joke!
-![Jokes Card](https://readme-jokes.vercel.app/api)
